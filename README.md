@@ -28,7 +28,7 @@ This project replicates the **Portify website dashboard** with essential feature
 - Static team members section with roles
 - Well-organized control layout
 
----
+------
 
 ## 🛠️ Tech Stack
 

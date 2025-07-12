@@ -7,7 +7,7 @@ This project replicates the **Portify website dashboard** with essential feature
 
 ## ✨ Live Preview
 
-[👉 Click here to view (if deployed)](https://your-deployed-link.com)
+[👉 Click here to view (if deployed)](https://portify-lite-ui.vercel.app/)
 
 ---
 
